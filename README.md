@@ -8,7 +8,7 @@ Founder of [TRUSCOR Private Limited](https://truscor.org) · creator of SOVA and
 
 <p>
   <a href="sova/preprints/sova-portable-evidence-reproduction-v1.1.pdf"><img src="https://img.shields.io/badge/LATEST%20PREPRINT-.sova%20v1.1-FFB000?style=for-the-badge" alt="Latest preprint: .sova v1.1" /></a>
-  <a href="https://github.com/TRUSCOR/sova-research"><img src="https://img.shields.io/badge/RELEASES-TRUSCOR%2Fsova--research-0B8793?style=for-the-badge" alt="Official releases" /></a>
+  <a href="https://github.com/TRUSCOR/research"><img src="https://img.shields.io/badge/RELEASES-TRUSCOR%2Fresearch-0B8793?style=for-the-badge" alt="Official releases" /></a>
   <img src="https://img.shields.io/badge/LICENCE-CC%20BY%204.0-00B8D9?style=for-the-badge" alt="CC BY 4.0" />
 </p>
 
@@ -30,7 +30,7 @@ the copies here.
 
 | Paper | Version | Read here | Official release |
 |---|---|---|---|
-| **.sova: Portable, Evidence-Bounded Reproduction of AI-Agent Security Findings** | 1.1 · 2026-11-13 | [PDF](sova/preprints/sova-portable-evidence-reproduction-v1.1.pdf) · [Markdown](sova/preprints/sova-portable-evidence-reproduction-v1.1.md) | [TRUSCOR/sova-research](https://github.com/TRUSCOR/sova-research): data, code, protocols, validators, and four findings as `.sova` files |
+| **.sova: Portable, Evidence-Bounded Reproduction of AI-Agent Security Findings** | 1.1 · 2026-11-13 | [PDF](sova/preprints/sova-portable-evidence-reproduction-v1.1.pdf) · [Markdown](sova/preprints/sova-portable-evidence-reproduction-v1.1.md) | [TRUSCOR/research](https://github.com/TRUSCOR/research): data, code, protocols, validators, and four findings as `.sova` files |
 | | 1.0 · 2026-08-20 | [PDF](sova/preprints/sova-portable-evidence-reproduction-v1.0.pdf) · [Markdown](sova/preprints/sova-portable-evidence-reproduction-v1.0.md) | Superseded by 1.1 |
 
 Neither version has been peer reviewed.
@@ -74,7 +74,7 @@ sova/
 
 The SOVA papers here were first published on 2 November 2026 in this account's
 `sova-research` repository, which moved to the TRUSCOR organisation on
-13 November 2026 as [TRUSCOR/sova-research](https://github.com/TRUSCOR/sova-research).
+13 November 2026 and is now [TRUSCOR/research](https://github.com/TRUSCOR/research).
 Their commit history was carried over, so every file keeps its original date and
 authorship; `git log --follow <file>` shows it.
 
@@ -94,7 +94,7 @@ Cite the official release:
   author       = {Patil, Gautam R.},
   year         = {2026},
   note         = {Preprint, version 1.1. Not peer reviewed.},
-  howpublished = {\url{https://github.com/TRUSCOR/sova-research}},
+  howpublished = {\url{https://github.com/TRUSCOR/research}},
 }
 ```
 
