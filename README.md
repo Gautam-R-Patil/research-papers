@@ -2,7 +2,7 @@
 
 # Research Papers
 
-**Preprints and working drafts by Gautam R Patil**
+**Preprints and working drafts by [Gautam R Patil](https://orcid.org/0009-0005-7614-2771)**
 
 Founder of [TRUSCOR Private Limited](https://truscor.org) · creator of SOVA and the `.sova` evidence format
 
@@ -30,7 +30,7 @@ the copies here.
 
 | Paper | Version | Read here | Official release |
 |---|---|---|---|
-| **Did the Attack Really Work? Auditing, Re-running, and Sealing AI-Agent Security Findings with .sova** | 1.1 · 2026-11-16 | [PDF](sova/preprints/sova-portable-evidence-reproduction-v1.1.pdf) · [Markdown](sova/preprints/sova-portable-evidence-reproduction-v1.1.md) | [TRUSCOR/research](https://github.com/TRUSCOR/research): data, code, frozen protocols, validators, and every run as `.sova` files |
+| **Did the Attack Really Work? Auditing, Re-running, and Sealing AI-Agent Security Findings with .sova** | 1.1 · 2026-11-16 | [PDF](sova/preprints/sova-portable-evidence-reproduction-v1.1.pdf) · [Markdown](sova/preprints/sova-portable-evidence-reproduction-v1.1.md) · [DOI](https://doi.org/10.5281/zenodo.24290458) | [TRUSCOR/research](https://github.com/TRUSCOR/research): data, code, frozen protocols, validators, and every run as `.sova` files |
 | | 1.0 · 2026-08-20 | [PDF](sova/preprints/sova-portable-evidence-reproduction-v1.0.pdf) · [Markdown](sova/preprints/sova-portable-evidence-reproduction-v1.0.md) | Superseded by 1.1 |
 
 Neither version has been peer reviewed.
@@ -93,10 +93,15 @@ Cite the official release:
                   Sealing {AI}-Agent Security Findings with {.sova}},
   author       = {Patil, Gautam R},
   year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.24290458},
+  url          = {https://doi.org/10.5281/zenodo.24290458},
   note         = {Preprint, version 1.1. Not peer reviewed.},
-  howpublished = {\url{https://github.com/TRUSCOR/research}},
 }
 ```
+
+The DOI above is version 1.1. To cite whichever version is newest, use the
+all-versions DOI [10.5281/zenodo.24290457](https://doi.org/10.5281/zenodo.24290457).
 
 ## Licence
 
