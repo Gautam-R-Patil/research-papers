@@ -30,7 +30,7 @@ the copies here.
 
 | Paper | Version | Read here | Official release |
 |---|---|---|---|
-| **Did the Attack Really Work? Auditing, Re-running, and Proving AI-Agent Security Findings with .sova** | 1.1 · 2026-11-14 | [PDF](sova/preprints/sova-portable-evidence-reproduction-v1.1.pdf) · [Markdown](sova/preprints/sova-portable-evidence-reproduction-v1.1.md) | [TRUSCOR/research](https://github.com/TRUSCOR/research): data, code, frozen protocols, validators, and every run as `.sova` files |
+| **Did the Attack Really Work? Auditing, Re-running, and Sealing AI-Agent Security Findings with .sova** | 1.1 · 2026-11-16 | [PDF](sova/preprints/sova-portable-evidence-reproduction-v1.1.pdf) · [Markdown](sova/preprints/sova-portable-evidence-reproduction-v1.1.md) | [TRUSCOR/research](https://github.com/TRUSCOR/research): data, code, frozen protocols, validators, and every run as `.sova` files |
 | | 1.0 · 2026-08-20 | [PDF](sova/preprints/sova-portable-evidence-reproduction-v1.0.pdf) · [Markdown](sova/preprints/sova-portable-evidence-reproduction-v1.0.md) | Superseded by 1.1 |
 
 Neither version has been peer reviewed.
@@ -90,7 +90,7 @@ Cite the official release:
 ```bibtex
 @misc{patil2026sova,
   title        = {Did the Attack Really Work? Auditing, Re-running, and
-                  Proving {AI}-Agent Security Findings with {.sova}},
+                  Sealing {AI}-Agent Security Findings with {.sova}},
   author       = {Patil, Gautam R.},
   year         = {2026},
   note         = {Preprint, version 1.1. Not peer reviewed.},
