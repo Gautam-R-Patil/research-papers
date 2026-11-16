@@ -2,7 +2,7 @@
 
 # Research Papers
 
-**Preprints and working drafts by Gautam R. Patil**
+**Preprints and working drafts by Gautam R Patil**
 
 Founder of [TRUSCOR Private Limited](https://truscor.org) · creator of SOVA and the `.sova` evidence format
 
@@ -91,7 +91,7 @@ Cite the official release:
 @misc{patil2026sova,
   title        = {Did the Attack Really Work? Auditing, Re-running, and
                   Sealing {AI}-Agent Security Findings with {.sova}},
-  author       = {Patil, Gautam R.},
+  author       = {Patil, Gautam R},
   year         = {2026},
   note         = {Preprint, version 1.1. Not peer reviewed.},
   howpublished = {\url{https://github.com/TRUSCOR/research}},
@@ -101,16 +101,16 @@ Cite the official release:
 ## Licence
 
 Papers, drafts, figures, and text in this repository are released under
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), © 2026 Gautam R. Patil.
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), © 2026 Gautam R Patil.
 You may share and adapt them with attribution. Code is not kept here; the SOVA
 OSS implementation is separately licensed under Apache-2.0.
 
 ## AI-assistance disclosure
 
-Gautam R. Patil conceived the research programme, set its direction and safety
+Gautam R Patil conceived the research programme, set its direction and safety
 constraints, and directed the work. Implementation, experiments, analysis
 support, literature discovery, drafting, and review used AI coding assistants
-under the author's direction; each paper states which. Gautam R. Patil is the
+under the author's direction; each paper states which. Gautam R Patil is the
 sole human author and is responsible for the text, citations, figures, data, and
 declarations. No AI system is listed as an author.
 
