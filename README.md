@@ -7,7 +7,7 @@
 Founder of [TRUSCOR Private Limited](https://truscor.org) · creator of SOVA and the `.sova` evidence format
 
 <p>
-  <a href="sova/preprints/sova-portable-evidence-reproduction-v1.2.pdf"><img src="https://img.shields.io/badge/LATEST%20PREPRINT-.sova%20v1.2-FFB000?style=for-the-badge" alt="Latest preprint: .sova v1.1" /></a>
+  <a href="sova/preprints/sova-portable-evidence-reproduction-v1.2.pdf"><img src="https://img.shields.io/badge/LATEST%20PREPRINT-.sova%20v1.2-FFB000?style=for-the-badge" alt="Latest preprint: .sova v1.2" /></a>
   <a href="https://github.com/TRUSCOR/research"><img src="https://img.shields.io/badge/RELEASES-TRUSCOR%2Fresearch-0B8793?style=for-the-badge" alt="Official releases" /></a>
   <img src="https://img.shields.io/badge/LICENCE-CC%20BY%204.0-00B8D9?style=for-the-badge" alt="CC BY 4.0" />
 </p>
@@ -30,11 +30,11 @@ the copies here.
 
 | Paper | Version | Read here | Official release |
 |---|---|---|---|
-| **Did the Attack Really Work? Auditing, Re-running, and Sealing AI-Agent Security Findings with .sova** | 1.2 · 2026-11-17 · short version | [PDF](sova/preprints/sova-portable-evidence-reproduction-v1.2.pdf) | [TRUSCOR/research](https://github.com/TRUSCOR/research): the artifact, and the post hoc analyses of this version |
+| **Did the Attack Really Work? Auditing, Re-running, and Sealing AI-Agent Security Findings with .sova** | 1.2 · 2026-11-17 · short version | [PDF](sova/preprints/sova-portable-evidence-reproduction-v1.2.pdf) · [Markdown](sova/preprints/sova-portable-evidence-reproduction-v1.2.md) · [DOI](https://doi.org/10.5281/zenodo.24321025) | [TRUSCOR/research](https://github.com/TRUSCOR/research): the artifact, and the post hoc analyses of this version |
 | | 1.1 · 2026-11-16 · extended version | [PDF](sova/preprints/sova-portable-evidence-reproduction-v1.1.pdf) · [Markdown](sova/preprints/sova-portable-evidence-reproduction-v1.1.md) · [DOI](https://doi.org/10.5281/zenodo.24290458) | [TRUSCOR/research](https://github.com/TRUSCOR/research): data, code, frozen protocols, validators, and every run as `.sova` files |
 | | 1.0 · 2026-08-20 | [PDF](sova/preprints/sova-portable-evidence-reproduction-v1.0.pdf) · [Markdown](sova/preprints/sova-portable-evidence-reproduction-v1.0.md) | Superseded by 1.1 |
 
-Neither version has been peer reviewed.
+None of these versions has been peer reviewed.
 
 ## Working drafts
 
@@ -95,14 +95,17 @@ Cite the official release:
   author       = {Patil, Gautam R},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.24290458},
-  url          = {https://doi.org/10.5281/zenodo.24290458},
-  note         = {Preprint, version 1.1. Not peer reviewed.},
+  doi          = {10.5281/zenodo.24321025},
+  url          = {https://doi.org/10.5281/zenodo.24321025},
+  note         = {Preprint, version 1.2. Not peer reviewed.},
 }
 ```
 
-The DOI above is version 1.1. To cite whichever version is newest, use the
-all-versions DOI [10.5281/zenodo.24290457](https://doi.org/10.5281/zenodo.24290457).
+The DOI above is version 1.2, the short version. The extended version, 1.1, is
+[10.5281/zenodo.24290458](https://doi.org/10.5281/zenodo.24290458). To link to the
+paper, use the all-versions DOI
+[10.5281/zenodo.24290457](https://doi.org/10.5281/zenodo.24290457), which always
+opens the newest version.
 
 ## Licence
 
